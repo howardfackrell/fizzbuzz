@@ -1,5 +1,4 @@
 $(document).ready(function() {
-	alert("jquery is running on the page");
   runFizzBuzz(1, 100);
 });
 
